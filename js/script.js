@@ -31,15 +31,20 @@ document.addEventListener('DOMContentLoaded', function() {
             url: "https://github.com/MedicalImageAnalysisTutorials/SlicerCochlea",
         },
         {
-            src: "assets/images/img2.png",  // <-- was img2.ng (typo)
+            src: "assets/images/img2.png",  
             url: "https://github.com/MedicalImageAnalysisTutorials/SlicerCervicalSpine",
         },
         {
-            src: "assets/images/img3.gif",
+            src: "assets/images/img3.png",  
+            url: "https://github.com/MedicalImageAnalysisTutorials/SlicerCervicalSpine",
+        },
+
+        {
+            src: "assets/images/img4.gif",
             url: "https://github.com/ia-dev/opensimQt",
         },
         {
-            src: "assets/images/img4.png",
+            src: "assets/images/img5.png",
             url: "https://github.com/iaBIH/synth-md"
         }
     ];
